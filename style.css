@@ -1,0 +1,262 @@
+body {
+	font-family: 'Verdana', serif;
+	background-image: url("images/beach.jpg");
+	border-radius: 10px;
+	align-items: center;
+	align-content: center;
+	text-align: center;
+}
+
+h1{
+	text-decoration-color: white;
+	margin-top: -40px;
+
+}
+h3{
+	color: white;
+}
+p{
+	color: black;
+	margin-top: -20px;
+	margin: 10px;
+}
+.introduction {
+	background-color: white;
+	text-align: left;
+	padding: 30px;
+	/*width: 53%;*/
+	margin: 6px auto;
+	border-radius: 6px;
+	box-shadow: 50px 50px 50px 50px #00000038;
+	margin-top: 50px;
+}
+p{
+	color: white;
+}
+.photos{
+	background-color: white;
+	text-align: center;
+	padding: 30px;
+	/*width: 53%;*/
+	margin: 6px auto;
+	border-radius: 6px;
+	box-shadow: 50px 50px 50px 50px #00000038;
+}
+
+.menu {
+	background-color: white;
+	color: green;
+	align-items: center;
+	margin-bottom: -50px;
+}
+
+.menu {
+padding: 0;
+	list-style: none;
+	margin:0;
+	font-size:large;
+	font-weight: bolder;	
+	display:flex;
+	justify-content: center;
+	text-decoration: none;
+	margin-top:-30px;
+}
+
+.menu li {
+	display:inline;
+	margin: 0 16px;
+}
+
+.btn-grey{
+	color:green ;
+	background-color:white;
+	padding:8px 16px ;
+	border-radius:6px ;
+	font-weight:bolder;
+	object-position: right;
+	columns: 1;
+}
+
+.btn-grey:hover{
+	background-color:white ;
+	color:grey ;
+	transition:2s
+}
+
+.btn-grey1{
+	color:green ;
+	background-color:white; 
+	padding:8px 16px ;
+	border-radius:6px ;
+	font-weight:bolder;
+	object-position: right;
+	text-decoration: none;
+}
+
+.btn-grey1:hover {
+	background-color:white ;
+	color:black ;
+	transition:2s
+}
+.btn-grey2{
+	color:green ;
+	background-color:white; 
+	padding:8px 16px ;
+	border-radius:6px ;
+	font-weight:bolder;
+	object-position: right;
+	text-decoration: none;
+}
+
+.btn-grey2:hover {
+	background-color:white ;
+	color:black ;
+	transition:2s
+}
+.btn-grey3{
+
+	color:green ;
+	background-color:white; 
+	padding:8px 16px ;
+	border-radius:6px ;
+	font-weight:bolder;
+	object-position: right;
+	text-decoration: none;
+}
+
+.btn-grey3:hover {
+	background-color:white ;
+	color:black ;
+	transition:2s
+}
+
+.btn-grey4{
+	color:green ;
+	background-color:white; 
+	padding:8px 16px ;
+	border-radius:6px ;
+	font-weight:bolder;
+	object-position: right;
+	text-decoration: none;
+}
+
+.btn-grey4:hover {
+	background-color:white;
+	color:black ;
+	transition:2s
+
+}
+
+.btn-grey5{
+	color:white ;
+	background-color:white; 
+	padding:8px 16px ;
+	border-radius:6px ;
+	font-weight:bolder;
+	object-position: right;	
+	text-decoration: none;
+}
+
+.btn-grey5:hover {
+	background-color:white;
+	color:black ;
+	transition:2s;	
+
+}
+
+.btn-grey6{
+	color:white ;
+	background-color:grey; 
+	padding:8px 16px ;
+	border-radius:6px ;
+	font-weight:bolder;
+	object-position: right;	
+	text-decoration: none;
+}
+
+.btn-grey6:hover {
+	background-color:white ;
+	color:black ;
+	transition:2s	
+} 
+
+.btn-grey7{
+	color:white ;
+	background-color:grey; 
+	padding:8px 16px ;
+	border-radius:6px ;
+	font-weight:bolder;
+	object-position: right;	
+	text-decoration: none;
+}
+
+.btn-grey7:hover {
+	background-color:white ;
+	color:grey ;
+	transition:2s	
+} 
+
+
+.squadra4{
+	margin-left: 10px;
+}
+
+.footer {
+	background-color: grey;
+	color: white;
+	align-items: center;
+	margin: 20px auto;
+
+}
+
+.footer {
+	padding: 0;
+	list-style:none;
+	margin:0;
+	font-size:small;
+	font-weight: normal;	
+	display:flex;
+	justify-content:center;
+	text-decoration:none;
+	margin-top:30px;
+	text-align:left;
+}
+
+.footer li {
+	display:inline;
+	margin: 0 16px;
+}
+.carousel-items {
+    display: flex;
+    overflow-x: scroll;
+    padding: 1rem 0;
+}
+.carousel-item {
+    margin-left: 1rem;
+
+}
+.carousel-items {
+	background-color: grey;
+	color: white;
+	align-items: center;
+	margin: 20px auto;
+	text-align: center;
+
+}
+
+.carousel-items {
+padding: 0;
+	list-style: none;
+	margin:0;
+	font-size:large;
+	font-weight: bolder;	
+	display:flex;
+	justify-content: center;
+	text-decoration: none;
+	margin-top:30px;
+}
+
+.carousel-items li {	display:inline;
+	margin: 0 16px;
+}
+
